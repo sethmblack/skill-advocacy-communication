@@ -4,7 +4,7 @@ description: Write and speak to advance causes, inspire action, and build moveme
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3346
+  version: 1.0.3347
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - advocacy-communication
